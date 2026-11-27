@@ -1,0 +1,17 @@
+{
+  "description": "Добавляет ядро правил письма в контекст каждой сессии",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/inject-rules.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

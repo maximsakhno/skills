@@ -1,0 +1,29 @@
+{
+  "name": "maximsakhno",
+  "description": "Скиллы для Claude Code, собранные из лучших книг по своей теме",
+  "owner": {
+    "name": "Maxim Sakhno"
+  },
+  "plugins": [
+    {
+      "name": "clean-writing",
+      "source": "./plugins/clean-writing",
+      "description": "Правила ясного письма для ответов в чате, задач, MR, документации и писем — по 11 книгам о письме"
+    },
+    {
+      "name": "clean-code",
+      "source": "./plugins/clean-code",
+      "description": "Правила простого и понятного кода без привязки к языку: имена, декомпозиция, одна ответственность, рефакторинг и выбор решения по размеру задачи — по 8 книгам о коде"
+    },
+    {
+      "name": "clean-code-python",
+      "source": "./plugins/clean-code-python",
+      "description": "Правила чистого Python-кода в дополнение к clean-code: идиомы, типы, тесты, asyncio и архитектура приложения под версии Python и pytest в проекте — по 9 книгам и официальной документации"
+    },
+    {
+      "name": "skillstrap",
+      "source": "./plugins/skillstrap",
+      "description": "Собирает плагин со скиллом по теме из лучших книг: подбирает книги, конспектирует их субагентами и сводит конспекты в правила"
+    }
+  ]
+}
