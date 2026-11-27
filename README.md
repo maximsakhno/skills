@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Логотип skills" width="256">
+</p>
+
 # skills
 
 > Нужно делать так, как нужно, а так, как не нужно, делать не нужно.
