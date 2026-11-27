@@ -1,0 +1,17 @@
+{
+  "name": "clean-writing",
+  "version": "0.1.0",
+  "description": "Правила ясного письма для ответов в чате, задач, MR, документации и писем — по 11 книгам о письме",
+  "icon": "./assets/logo.png",
+  "author": {
+    "name": "Maxim Sakhno"
+  },
+  "repository": "https://github.com/maximsakhno/skills",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "style",
+    "russian",
+    "documentation"
+  ]
+}

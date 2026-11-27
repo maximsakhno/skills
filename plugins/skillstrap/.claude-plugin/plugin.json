@@ -1,0 +1,17 @@
+{
+  "name": "skillstrap",
+  "version": "0.1.0",
+  "description": "Собирает плагин со скиллом по теме из лучших книг: подбирает книги, конспектирует их субагентами и сводит конспекты в правила",
+  "icon": "./assets/logo.png",
+  "author": {
+    "name": "Maxim Sakhno"
+  },
+  "repository": "https://github.com/maximsakhno/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "plugin",
+    "books",
+    "generator"
+  ]
+}
