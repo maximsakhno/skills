@@ -1,6 +1,6 @@
 {
   "name": "clean-code-python",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Правила чистого Python-кода в дополнение к clean-code: идиомы, модель данных, типы, тесты, asyncio и архитектура приложения — с учётом версий Python и pytest в проекте.",
   "icon": "./assets/logo.png",
   "author": {
